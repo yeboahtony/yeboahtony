@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yeboahtony
-- 👀 I’m interested in Web design ing
-- 🌱 I’m currently learning decoding
+- 👀 I’m interested in cybersecurity
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on creating a web site
 - 📫 How to reach me  yeboahtony159@gmail.com
 
